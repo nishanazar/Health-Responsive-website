@@ -1,4 +1,4 @@
-import Image from "next/image"
+
 import Botton from "./Botton"
 import Dot from "./Dot"
 

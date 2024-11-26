@@ -1,5 +1,5 @@
 import Image from "next/image";
-import author from "../../../public/author-image.jpg"
+
 interface IAuthor {
     heading: string;
     paragraphe: string;
